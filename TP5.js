@@ -41,4 +41,13 @@ console.log(suma);
 console.log(resta);
 //endregion
 
+//region
+var inicio=0;
+var fin=[5];
+
+for (inicio of fin){
+   console.log(inicio++)
+}
+//endregion
+
 

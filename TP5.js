@@ -17,3 +17,16 @@ let numResta=10;
 var resta= 0;
 
 //endregion
+
+
+//region
+
+multi= n1*numMulti;
+
+div= n1/numDivi;
+
+suma= n1+numSuma;
+
+resta= n1-numResta;
+
+//endregion

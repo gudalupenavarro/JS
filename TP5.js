@@ -30,3 +30,13 @@ suma= n1+numSuma;
 resta= n1-numResta;
 
 //endregion
+
+//region
+console.log(multi);
+
+console.log(div)
+
+console.log(suma);
+
+console.log(resta);
+//endregion
